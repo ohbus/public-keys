@@ -1,4 +1,4 @@
-# Run this command to generate [public](https://subho.xyz/public-keys) key
+# Run this command to generate [public](https://subho.xyz/public-keys) ssh key
 
 ```sh
 ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub
